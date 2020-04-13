@@ -1,0 +1,12 @@
+.email1 {
+	float:right;
+	padding-right: 20px;
+}
+.phone1 {
+	float:right;
+}
+.comms {
+	margin-bottom: 15%;
+	margin-top: 3%;
+	display: inline-block;
+}

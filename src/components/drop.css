@@ -1,0 +1,9 @@
+.dropdown {
+	display: inline-grid;
+}
+.gridPos {
+	width: 400px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	/*grid-row-gap: 10px;*/
+}

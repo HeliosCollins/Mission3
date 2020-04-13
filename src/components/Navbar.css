@@ -1,0 +1,37 @@
+.navbar {
+	background-color: #48ACF5;
+	height: 50px;
+
+}
+.nav-item {
+	margin-top: 5px;
+}
+.aColor {
+	color: white;
+	text-align: center;
+	
+}
+.Home {
+	padding-left: 75px;
+
+}
+.Quote {
+	padding-left: 75px;
+}
+.Policy {
+	padding-left: 75px;
+}
+.Claims {
+	padding-left: 75px;
+}
+.About {
+	padding-left: 75px;
+	
+}
+.title {
+	margin-left: 20%;
+}
+.btns-nav {
+	margin-left: 75px;
+	background-color: white;
+}

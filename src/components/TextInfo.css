@@ -1,0 +1,40 @@
+
+.Age {
+	width: 9.85%;
+	border: none;
+	background-color: #BBECFF;
+}	
+.group {
+	
+}
+.Name {
+	display: inline-block; 
+	margin-top: 20%;
+}	
+.insideName {
+	background-color: #BBECFF;
+	width:60px;
+	border: none;
+	padding-left: 10px;
+
+	
+}
+.insideFirst {
+	background-color: #BBECFF;
+	width:60px;
+	border:none;
+	text-align: center;
+}
+.insideLast {
+	background-color: #BBECFF;
+	width:60px;
+	border:none;
+}
+.First {
+	float: right;
+
+}	
+.Last {
+	float: right;
+
+}

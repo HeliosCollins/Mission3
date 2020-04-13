@@ -1,0 +1,37 @@
+.Grid {
+	margin-top: 1.5%;
+}
+.TextField {
+	display: inline-grid;
+	grid-row-gap: 25px;
+
+}
+.continue {
+	margin-left: 70%;
+}
+.details {
+	margin-top: 2.5%;
+	width: 30%;
+	float: right;
+}
+.textArea {
+	float: right;
+	margin-top: 1%;
+	margin-right: 35%;
+
+	width: 10%;
+	height: 400px;
+	background-color: #BBECFF;
+}
+.vehicle {
+	display: none;
+}
+
+.Prog {
+	float: right;
+	margin-top: 3%;
+	margin-right: 5%;
+}
+.vTest {
+	display: none;
+}

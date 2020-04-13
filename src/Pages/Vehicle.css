@@ -1,0 +1,20 @@
+.drop {
+	/*margin-left: 10%;*/
+	width: 200px;
+}
+.left {
+	margin-top: 3%;
+	float: left;
+}
+.right {
+	float: left;
+	margin-left: 35%;
+	margin-top: 3%;
+}
+
+Select {
+	width: 20%;
+}
+
+
+

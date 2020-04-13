@@ -1,0 +1,21 @@
+.left2 {
+	float: left;
+	margin-top: 3%;
+}
+.right2 {
+	float: left;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+.kilo {
+	display: inline-block;
+}
+.textArea4 {
+	float: right;
+	margin-top: 1%;
+	margin-right: 35%;
+
+	width: 10%;
+	height: 680px;
+	background-color: #BBECFF;
+}
